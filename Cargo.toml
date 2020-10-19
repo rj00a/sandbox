@@ -15,3 +15,7 @@ path = "leetcode/sudoku-solver.rs"
 [[bin]]
 name = "regex-expression-matching"
 path = "leetcode/regex-expression-matching.rs"
+
+[[bin]]
+name = "wildcard-matching"
+path = "leetcode/wildcard-matching.rs"
