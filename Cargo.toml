@@ -19,3 +19,23 @@ path = "leetcode/regex-expression-matching.rs"
 [[bin]]
 name = "wildcard-matching"
 path = "leetcode/wildcard-matching.rs"
+
+[[bin]]
+name = "find-peak-element"
+path = "leetcode/find-peak-element.rs"
+
+[[bin]]
+name = "n-queens"
+path = "leetcode/n-queens.rs"
+
+[[bin]]
+name = "n-queens-2"
+path = "leetcode/n-queens-2.rs"
+
+[[bin]]
+name = "plus-one"
+path = "leetcode/plus-one.rs"
+
+[[bin]]
+name = "valid-number"
+path = "leetcode/valid-number.rs"
