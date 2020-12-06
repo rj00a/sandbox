@@ -39,3 +39,11 @@ path = "leetcode/plus-one.rs"
 [[bin]]
 name = "valid-number"
 path = "leetcode/valid-number.rs"
+
+[[bin]]
+name = "permutations"
+path = "leetcode/permutations.rs"
+
+[[bin]]
+name = "combinations"
+path = "leetcode/combinations.rs"
