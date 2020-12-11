@@ -47,3 +47,7 @@ path = "leetcode/permutations.rs"
 [[bin]]
 name = "combinations"
 path = "leetcode/combinations.rs"
+
+[[bin]]
+name = "two-sum"
+path = "leetcode/two-sum.rs"
