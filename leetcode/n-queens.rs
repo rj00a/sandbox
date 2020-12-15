@@ -5,12 +5,6 @@ type Queens = Vec<i32>;
 fn main() {
     let n = 5;
     let solutions = solve_n_queens(n);
-    //for solution in &solutions {
-    //    for line in solution {
-    //        println!("{}  ", line);
-    //    }
-    //    println!("");
-    //}
     println!(
         "There were {} solutions with a {1}x{1} board.",
         solutions.len(),
