@@ -2,3 +2,5 @@
 /Cargo.lock
 a.out
 *.o
+.dotty-ide-disabled
+.metals
